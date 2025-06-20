@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Bloquear Inputs" src="./dma-logo.png" height="100px" />
+    <img alt="Bloquear Inputs" src=".github/dma-logo.png" height="100px" />
     <br>Bloquear Inputs e Conteúdo<br/>
     ReactJS
 </h1>
@@ -48,7 +48,7 @@ Principais funcionalidades:
 1. **Clone o repositório:**
    ```sh
    git clone https://github.com/marcosantiago-dma/blockInput.git
-   cd SEU_REPOSITORIO
+   cd blockInput
    ```
 
 2. **Instale as dependências:**
