@@ -47,7 +47,7 @@ Principais funcionalidades:
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/Smarcosantiago-dma/blockInput.git
+   git clone https://github.com/marcosantiago-dma/blockInput.git
    cd SEU_REPOSITORIO
    ```
 
