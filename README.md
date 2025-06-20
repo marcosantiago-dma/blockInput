@@ -48,7 +48,7 @@ Principais funcionalidades:
 1. **Clone o repositório:**
    ```sh
    git clone https://github.com/marcosantiago-dma/blockInput.git
-   cd SEU_REPOSITORIO
+   cd blockInput
    ```
 
 2. **Instale as dependências:**
