@@ -6,9 +6,8 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/marcosantiago-dma/blockInput?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/countmarcosantiago-dma/blockInput?style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/license/marcosantiago-dma/blockInput?style=flat-square"> 
-  <img alt="Made by YOU" src="https://img.shields.io/badge/made%20by-SEU_NOME-%23063386?style=flat-square">
+
+  <img alt="Made by YOU" src="https://img.shields.io/badge/made%20by-marcosantiago-dma-%23063386?style=flat-square">
 </p>
 
 <p align="center">
