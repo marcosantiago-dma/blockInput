@@ -136,7 +136,8 @@ export default function Menu() {
                     <h4>texto aleatório</h4>
                     <input type="text" placeholder="Input 2" />
                     <input type="text" placeholder="Input 3" />
-                    <button className="button">Testar</button>                
+                    <button className="button">Testar</button>  
+                    <p>Desenvolvido por Marco Tulio Santiago</p>              
                 </div>
             </div>
         </>
