@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/marcosantiago-dma/blockInput?style=flat-square">
 
-  <img alt="Made by YOU" src="https://img.shields.io/badge/made%20by-marcosantiago-dma-%23063386?style=flat-square">
+  <img alt="Made by YOU" src="https://img.shields.io/badge/made%20by-santiagoidu-%23063386?style=flat-square">
 </p>
 
 <p align="center">
