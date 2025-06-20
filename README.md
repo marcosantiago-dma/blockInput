@@ -1,13 +1,13 @@
 <h1 align="center">
-    <img alt="Bloquear Inputs" src="https://grupodma.com.br/assets/dma-logo.png" height="100px" />
+    <img alt="Bloquear Inputs" src="./dma-logo.png" height="100px" />
     <br>Bloquear Inputs e Conteúdo<br/>
     ReactJS
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/license/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square"> 
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/marcosantiago-dma/blockInput?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/countmarcosantiago-dma/blockInput?style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/marcosantiago-dma/blockInput?style=flat-square"> 
   <img alt="Made by YOU" src="https://img.shields.io/badge/made%20by-SEU_NOME-%23063386?style=flat-square">
 </p>
 
@@ -85,8 +85,7 @@ Principais funcionalidades:
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
-
-<h2 align="center">Projeto desenvolvido por DMA – Soluções em Tecnologia e Inovação</h2>
+<h2 align="center">Projeto desenvolvido por DMA Distribuidora S/A</h2>
 <p align="center">
   <a href="https://grupodma.com.br" target="_blank">www.grupodma.com.br</a>
 </p>
